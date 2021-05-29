@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyEmail/1.0.0": {
+        "dependencies": {
+          "IniWorker2": "2.0.0",
+          "OpenPop.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyEmail.dll": {}
+        }
+      },
+      "IniWorker2/2.0.0": {
+        "runtime": {
+          "lib/net5.0/IniWorker2.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "OpenPop.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/OpenPop.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyEmail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IniWorker2/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Ko8bQSHO1pdbKXb6DpR9o4KHQAh+7NKMQ0uTP/Awn7kdU/h7savlUzV6CSDgYYqPfLMabcJ6YGQBxfA6UjDdw==",
+      "path": "iniworker2/2.0.0",
+      "hashPath": "iniworker2.2.0.0.nupkg.sha512"
+    },
+    "OpenPop.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Ru3Q4iGYE3KOrtOvPsbyeW1TnNJ2DUi2Gt2q7ObuaZL4xmDGbtG4rUFSpojWVXrBuXqg0sDTSXWZ+K1AARsIg==",
+      "path": "openpop.core/1.0.0",
+      "hashPath": "openpop.core.1.0.0.nupkg.sha512"
+    }
+  }
+}

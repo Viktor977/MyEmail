@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJA4xX2jCBzUa4Nu3QKlLMLDPDn3MAccwz1RH53C8VYbUr3UCWQ8O8v5lEBWNAU5NWXWSw8UGC5uifXj3kfElA==",
+  "success": true,
+  "projectFilePath": "E:\\Exam(network programming )\\Email\\MyEmail\\MyEmail\\MyEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\iniworker2\\2.0.0\\iniworker2.2.0.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\openpop.core\\1.0.0\\openpop.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
